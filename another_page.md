@@ -3,7 +3,9 @@
 
 A message in a bottle is a form of communication in which a message is sealed in a container, such as a glass bottle, and released into a body of water, such as the sea. 
 
-## Prerequisites Before you begin, make sure you're within walking distance of the sea. Then, gather the following things: - A glass bottle with a lid
+## Prerequisites Before you begin, 
+
+Make sure you're within walking distance of the sea. Then, gather the following things: - A glass bottle with a lid
 
 - A piece of parchment that can be rolled up to fit inside the glass bottle
 
