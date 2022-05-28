@@ -1,4 +1,4 @@
-# ABOUT
+# ![About](about-icon-png-13.jpeg) ABOUT
 ---
 
 My professional areas of interest include drawing, sketching, and designing. I specalise in drawing space-rovers and drone-probes. 
