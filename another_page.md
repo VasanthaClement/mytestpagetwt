@@ -1,5 +1,7 @@
 
-# Sending bottled messages A message in a bottle is a form of communication in which a message is sealed in a container, such as a glass bottle, and released into a body of water, such as the sea. 
+# Sending bottled messages
+
+A message in a bottle is a form of communication in which a message is sealed in a container, such as a glass bottle, and released into a body of water, such as the sea. 
 
 ## Prerequisites Before you begin, make sure you're within walking distance of the sea. Then, gather the following things: - A glass bottle with a lid
 
@@ -10,6 +12,7 @@
 - A bottle of ink
 
 - An oilskin pouch that can fit inside the glass bottle ## Steps 1.  Clean the glass bottle thoroughly and put it out to dry.
+
 
 1.  Dip the quill pen into the ink and write out the following message on the parchment.
 
