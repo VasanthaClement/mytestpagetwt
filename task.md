@@ -4,7 +4,7 @@ parent: Sending bottled messages
 
 # Task example
 
-Some random procedures
+Some random procedures 
 
 ## Step 5: Set preferences for receiving notifications
 
