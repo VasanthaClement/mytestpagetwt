@@ -1,6 +1,7 @@
 ---
 has_children: true
 ---
+
 # Sending bottled messages
 
 A message in a bottle is a form of communication in which a message is sealed in a container, such as a glass bottle, and released into a body of water, such as the sea. 
