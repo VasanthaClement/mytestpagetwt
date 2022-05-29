@@ -1,6 +1,7 @@
 ---
 has_children: true
 ---
+{% include.sinippet1.md %}
 
 # Sending bottled messages
 
