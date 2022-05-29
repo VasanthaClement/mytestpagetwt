@@ -1,5 +1,5 @@
 ---
-Parent: Sending bottled messages
+parent: Sending bottled messages
 ---
 
 # Task example
