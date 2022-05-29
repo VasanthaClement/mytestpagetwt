@@ -41,3 +41,4 @@ Make sure you're within walking distance of the sea. Then, gather the following 
 
 1.  At the next high tide, walk out to the sea and throw the glass bottle out as far as you can. The tide will carry the bottle out to the high sea and deposit it at the shore of the receiver. Wait for a reply.
 
+{{ site.description }}
