@@ -1,7 +1,8 @@
 ---
 has_children: true
 ---
-{% include snippet1.md %}
+
+{% include share.md %}
 
 # Sending bottled messages
 
