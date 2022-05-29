@@ -2,7 +2,7 @@
 has_children: true
 ---
 
-{% include share.md %}
+{% include Share.md %}
 
 # Sending bottled messages
 
